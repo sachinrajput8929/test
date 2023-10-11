@@ -6,6 +6,7 @@ root.geometry("500x500")
  
 root.wm_iconbitmap("icon.ico")
 root.resizable(False,False)
+kljgfiodsahfoi
 
 
 # lbl1=Label1(root,)
